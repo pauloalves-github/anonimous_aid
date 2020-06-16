@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "Anonibus",
+    "slug": "anonibus",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "description": "Aplicativo desenvolvido durante as disciplinas de Desenvolvimento de Aplicações Distribuídas e Desenvolvimento de Aplicações Móveis.\nInclusão de duas funcionalidades, uma permitindo que o usuário consiga visualizar sua senha e outra que controla a quantidade mínima de caracteres para a criação de uma senha, a fim de aumentar a segurança da conta.",
+    "githubUrl": "https://github.com/pauloalves-github/anonimous_aid.git"
+  }
+}
